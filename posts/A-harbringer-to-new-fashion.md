@@ -2,16 +2,18 @@
 layout: base.njk
 title: "BREAKING: Mirror selfie sparks another wave of fan discourse"
 date: 2026-07-19
-image: /images/CHANGE-ME.jpg
+image: /images/Photo1.jpg
 tags: posts
 eyebrow: Developing Story
 comments:
-  - user: archive_keeper
-    text: every upload somehow raises the editorial standard. historians will cite this.
+  - user: Jissah_fanx
+    text: Marvellous, simply magnificent. Such Etheral Beauty has yet to be seen by the previous ages.
   - user: pixel_detective
     text: the composition is suspiciously clean for something that claims to be casual. investigations continue.
-  - user: coffee_and_headlines
+  - user: cookieman
     text: local productivity reportedly dropped after readers spent twenty minutes staring at this photograph.
+  - user: jlous_ex
+    text: Bruh some of us tryna move on. Can't really help it ya'll keep popping up in my feed, God...
   - user: "Verified Biggest Fan (Boyfriend)"
     boyfriend: true
     text: i have been advised by legal counsel to stop commenting on ongoing masterpieces.
