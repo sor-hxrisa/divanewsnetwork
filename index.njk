@@ -1,0 +1,11 @@
+---
+layout: base.njk
+title: Home
+---
+<p class="archive-label">Latest coverage</p>
+{% for post in collections.posts | reverse %}
+<div class="archive-item">
+  <a href="{{ post.url }}">{{ post.data.title }}</a>
+  <span>{{ post.data.date }}</span>
+</div>
+{% endfor %}
